@@ -21,13 +21,13 @@ The "Face Mask Detection" dataset can be found on Kaggle at the following link: 
 
 ### Usage
 
-    Set up a Kaggle notebook and import the required dataset (as explained in previous responses).
-    Install the necessary libraries and import them in your notebook.
-    Load and preprocess the dataset, splitting it into training, validation, and test sets.
-    Define and compile the CNN model.
-    Train the model using the training dataset and validate it using the validation dataset.
-    Evaluate the model using the test dataset.
-    Save the model for future use.
+1. Set up a Kaggle notebook and import the required dataset (as explained in previous responses).
+2. Install the necessary libraries and import them in your notebook.
+3. Load and preprocess the dataset, splitting it into training, validation, and test sets.
+4. Define and compile the CNN model.
+5. Train the model using the training dataset and validate it using the validation dataset.
+6. Evaluate the model using the test dataset.
+7. Save the model for future use.
     
 # License
 
